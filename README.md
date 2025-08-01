@@ -10,11 +10,9 @@ For more details, feel free to check out my [LinkedIn](https://www.linkedin.com/
 * AI Engineer @ SkillOnNet
   * Feb. 2025 - Present
   * Limassol, Cyprus
-
 * Data Scientist @ THG
   * Oct. 2021 - Sep. 2024
   * Manchester, UK
-
 * Postgraduate @ GAD — Government Actuary’s Department
   * Feb. 2021 - May. 2021
   * Manchester, UK
