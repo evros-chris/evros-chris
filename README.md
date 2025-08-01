@@ -6,15 +6,11 @@ For more details, feel free to check out my [LinkedIn](https://www.linkedin.com/
 * Machine Learning and Deep Learning
 * Forecasting
 
-### Education
-* MSc Data Science @ The University of Manchester
-  * Distinction
-  * Oct. 2020 - Sep. 2021
-* BSc(Hons) Computer Science @ The University of Manchester
-  * First Class Honours
-  * Sep. 2017 - Jun. 2020
-
 ### Experience
+* AI Engineer @ SkillOnNet
+  * Feb. 2025 - Present
+  * Limassol, Cyprus
+
 * Data Scientist @ THG
   * Oct. 2021 - Sep. 2024
   * Manchester, UK
@@ -22,6 +18,14 @@ For more details, feel free to check out my [LinkedIn](https://www.linkedin.com/
 * Postgraduate @ GAD — Government Actuary’s Department
   * Feb. 2021 - May. 2021
   * Manchester, UK
+
+### Education
+* MSc Data Science @ The University of Manchester
+  * Distinction
+  * Oct. 2020 - Sep. 2021
+* BSc(Hons) Computer Science @ The University of Manchester
+  * First Class Honours
+  * Sep. 2017 - Jun. 2020
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000?&logo=python)
