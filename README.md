@@ -3,7 +3,7 @@
 For more details, feel free to check out my [LinkedIn](https://www.linkedin.com/in/evripidis-christodoulides) profile.
 
 ### Interests
-* Machine Learning and Deep Learning
+* Machine Learning, Deep Learning, Artificial intelligence
 * Forecasting
 
 ### Experience
